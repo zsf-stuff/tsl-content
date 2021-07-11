@@ -1,0 +1,123 @@
+{
+  "name": "tsl-content",
+  "title": "Thirsty Sword Lesbians Content",
+  "description": "An unofficial content pack containing character sheets, playbooks, and moves from Thirsty Sword Lesbians for the PbtA System",
+  "author": "zsilverfox",
+  "version": "1.0.0",
+	"dependencies": [
+		{
+			"name": "pbta",
+			"type": "system"
+		}
+	],
+  "minimumCoreVersion": "0.7.5",
+	"packs": [
+		{
+		"name": "character-sheets",
+		"label": "Character Sheets",
+		"system": "pbta",
+		"path": "packs/character-sheets.db",
+		"entity": "Actor"
+		},
+		{
+		"name": "expanded-moves",
+		"label": "Expanded Moves",
+		"system": "pbta",
+		"path": "packs/expanded-moves.db",
+		"entity": "Item"
+		},
+		{
+		"name": "playbooks",
+		"label": "TSL Playbooks",
+		"system": "pbta",
+		"path": "packs/playbooks.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-beast-moves",
+		"label": "The Beast Moves",
+		"system": "pbta",
+		"path": "packs/the-beast-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-chosen-moves",
+		"label": "The Chosen Moves",
+		"system": "pbta",
+		"path": "packs/the-chosen-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-devoted-moves",
+		"label": "The Devoted Moves",
+		"system": "pbta",
+		"path": "packs/the-devoted-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-infamous-moves",
+		"label": "The Infamous Moves",
+		"system": "pbta",
+		"path": "packs/the-infamous-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-nature-witch-moves",
+		"label": "The Nature Witch Moves",
+		"system": "pbta",
+		"path": "packs/the-nature-witch-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-scoundrel-moves",
+		"label": "The Scoundrel Moves",
+		"system": "pbta",
+		"path": "packs/the-scoundrel-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-seeker-moves",
+		"label": "The Seeker Moves",
+		"system": "pbta",
+		"path": "packs/the-seeker-moves.db",
+		"entity": "Item"
+		},
+		
+		{
+		"name": "the-spooky-witch-moves",
+		"label": "The Spooky Witch Moves",
+		"system": "pbta",
+		"path": "packs/the-spooky-witch-moves.db",
+		"entity": "Item"
+		},
+		{
+		"name": "the-trickster-moves",
+		"label": "The Trickster Moves",
+		"system": "pbta",
+		"path": "packs/the-trickster-moves.db",
+		"entity": "Item"
+		},
+		{
+		"name": "tools-and-resources",
+		"label": "Tools and Resources",
+		"system": "pbta",
+		"path": "packs/tools-and-resources.db",
+		"entity": "JournalEntry"
+		},
+		{
+		"name": "universal-moves",
+		"label": "Universal Moves",
+		"system": "pbta",
+		"path": "packs/universal-moves.db",
+		"entity": "Item"
+		}
+		
+	]
+}

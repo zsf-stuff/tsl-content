@@ -1,4 +1,6 @@
 # tsl-content
+**YOU MUST COPY AND PASTE THE "PbtA Sheet Configuration" FROM THE "Tools & Resources" COMPENDIUM INTO THE "PbtA Sheet Configuration" IN SETTINGS!**
+
 Thirsty Sword Lesbians content module for FoundryVTT.
 This is the unofficial Thirsty Sword Lesbians content module for asacolips' Powered by the Apocalypse system! This module includes all the moves, playbook information, worldbuliding and safety tools, and character sheet templates from the text of Thirsty Sword Lesbians, made available under the CC BY SA 4.0 license.
 

@@ -3,7 +3,7 @@
   "title": "Thirsty Sword Lesbians Content",
   "description": "An unofficial content pack containing character sheets, playbooks, and moves from Thirsty Sword Lesbians for the PbtA System",
   "author": "zsilverfox",
-  "version": "1.0.1",
+  "version": "1.0.2",
 	"dependencies": [
 		{
 			"name": "pbta",
@@ -124,13 +124,6 @@
 		"system": "pbta",
 		"path": "packs/tools-and-resources.db",
 		"entity": "JournalEntry"
-		},
-		{
-		"name": "universal-moves",
-		"label": "Universal Moves",
-		"system": "pbta",
-		"path": "packs/universal-moves.db",
-		"entity": "Item"
 		}
 		
 	],

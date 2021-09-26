@@ -3,8 +3,7 @@ Thank you for downloading the unofficial Thirsty Sword Lesbians content module f
 
  
 
-**How to Use This Module
-**
+**How to Use This Module**
 1. Open the "Tools and Resources" compendium in your Compendiums tab
 
 2. Open the "PbtA Sheet Configuration" journal entry and copy the contents to your clipboard

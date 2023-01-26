@@ -1,3 +1,12 @@
+# v10 Update 1/25/27 #
+Holy moley it's been awhile. This module is now up to date for Foundry v10. And that's not all:
+* Added ALL Campaign Settings from the book
+* Added ALL Adventures and Scenarios from the book
+* Updated to v10 Journals
+* Minor editing of sheet data
+
+Have fun!
+
 # tsl-content
 Thank you for downloading the unofficial Thirsty Sword Lesbians content module for asacolips' Powered by the Apocalypse system! This module includes all the moves, playbook information, and character sheet templates from the text of Thirsty Sword Lesbians.
 

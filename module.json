@@ -12,7 +12,7 @@
 	},
 
 	"compatibility": {
-		"minimum": 9,
+		"minimum": 10,
 		"maximum": 10
 	},
 	"packs": [{
@@ -121,5 +121,6 @@
 			"path": "packs/universal-moves.db",
 			"entity": "Item"
 		}
-	]
+	],
+	"download": "https://raw.githubusercontent.com/zsf-stuff/tsl-content/main/module.json"	
 }

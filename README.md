@@ -1,4 +1,4 @@
-# This project is no longer maintained due to time constraints.#
+# This project is no longer maintained due to time constraints.
 
 # v10 Update 1/25/23 #
 Holy moley it's been awhile. This module is now up to date for Foundry v10. And that's not all:

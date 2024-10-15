@@ -12,29 +12,32 @@
 	},
 
 	"compatibility": {
-		"minimum": 10,
-		"maximum": 10
+		"minimum": "10",
+		"verified": "11.315"
 	},
 	"packs": [{
 			"name": "character-sheets",
 			"label": "Character Sheets",
 			"system": "pbta",
 			"path": "packs/character-sheets.db",
-			"entity": "Actor"
+			"entity": "Actor",
+			"type": "Actor"
 		},
 		{
 			"name": "expanded-moves",
 			"label": "Expanded Moves",
 			"system": "pbta",
 			"path": "packs/expanded-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 		{
 			"name": "playbooks",
 			"label": "TSL Playbooks",
 			"system": "pbta",
 			"path": "packs/playbooks.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -42,7 +45,8 @@
 			"label": "The Beast Moves",
 			"system": "pbta",
 			"path": "packs/the-beast-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -50,7 +54,8 @@
 			"label": "The Chosen Moves",
 			"system": "pbta",
 			"path": "packs/the-chosen-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -58,7 +63,8 @@
 			"label": "The Devoted Moves",
 			"system": "pbta",
 			"path": "packs/the-devoted-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -66,7 +72,8 @@
 			"label": "The Infamous Moves",
 			"system": "pbta",
 			"path": "packs/the-infamous-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -74,7 +81,8 @@
 			"label": "The Nature Witch Moves",
 			"system": "pbta",
 			"path": "packs/the-nature-witch-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -82,7 +90,8 @@
 			"label": "The Scoundrel Moves",
 			"system": "pbta",
 			"path": "packs/the-scoundrel-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -90,7 +99,8 @@
 			"label": "The Seeker Moves",
 			"system": "pbta",
 			"path": "packs/the-seeker-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 
 		{
@@ -98,28 +108,32 @@
 			"label": "The Spooky Witch Moves",
 			"system": "pbta",
 			"path": "packs/the-spooky-witch-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 		{
 			"name": "the-trickster-moves",
 			"label": "The Trickster Moves",
 			"system": "pbta",
 			"path": "packs/the-trickster-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		},
 		{
 			"name": "tools-and-resources",
 			"label": "Tools and Resources",
 			"system": "pbta",
 			"path": "packs/tools-and-resources.db",
-			"entity": "JournalEntry"
+			"entity": "JournalEntry",
+			"type": "JournalEntry"
 		},
 		{
 			"name": "universal-moves",
 			"label": "Universal Moves",
 			"system": "pbta",
 			"path": "packs/universal-moves.db",
-			"entity": "Item"
+			"entity": "Item",
+			"type": "Item"
 		}
 	],
 	"download": "https://github.com/zsf-stuff/tsl-content/raw/main/tsl-content.zip"	
